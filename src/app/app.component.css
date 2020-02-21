@@ -1,0 +1,13 @@
+body
+{
+  border:2px solid red;
+  height: 600px;
+}
+h1{
+  color:black;
+  padding:10px;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+  font-family: 'Times New Roman';
+}
